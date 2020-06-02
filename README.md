@@ -1,4 +1,4 @@
-# real-world-vue
+#koa-graphql-mongo-api
 
 ## Project setup
 ```
